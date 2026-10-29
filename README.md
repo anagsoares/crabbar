@@ -37,14 +37,14 @@ Ele **descobre sozinho todos os limites** que a Anthropic reporta pela sua conta
 
 Abra o Claude Code na pasta que quiser e cole este prompt:
 
-> Instale o CrabBar pra mim: clone `https://github.com/anagesoares/crabbar` (ou entre na pasta se eu já tiver baixado), rode `./install.sh`, e se algo falhar, conserte e tente de novo. Termine só quando o 🦀 estiver visível na minha barra de menus.
+> Instale o CrabBar pra mim: clone `https://github.com/anagsoares/crabbar` (ou entre na pasta se eu já tiver baixado), rode `./install.sh`, e se algo falhar, conserte e tente de novo. Termine só quando o 🦀 estiver visível na minha barra de menus.
 
 O Claude Code faz o resto e te avisa quando os números estiverem no ar.
 
 ### Prefere o terminal? Um comando:
 
 ```bash
-git clone https://github.com/anagesoares/crabbar
+git clone https://github.com/anagsoares/crabbar
 cd crabbar
 ./install.sh
 ```
